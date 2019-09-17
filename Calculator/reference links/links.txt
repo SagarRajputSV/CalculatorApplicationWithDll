@@ -1,0 +1,7 @@
+https://stackoverflow.com/questions/20857773/create-dynamic-variable-name
+
+
+https://www.tutorialsteacher.com/csharp/csharp-dictionary
+
+
+https://www.c-sharpcorner.com/article/create-basic-calculator-using-windows-forms-and-c-sharp/
